@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\Сiphers\Сiphers\bin\Debug\netcoreapp3.1\Сiphers.exe
+C:\Users\Александр\source\repos\Сiphers\Сiphers\bin\Debug\netcoreapp3.1\Сiphers.deps.json
+C:\Users\Александр\source\repos\Сiphers\Сiphers\bin\Debug\netcoreapp3.1\Сiphers.runtimeconfig.json
+C:\Users\Александр\source\repos\Сiphers\Сiphers\bin\Debug\netcoreapp3.1\Сiphers.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\Сiphers\Сiphers\bin\Debug\netcoreapp3.1\Сiphers.dll
+C:\Users\Александр\source\repos\Сiphers\Сiphers\bin\Debug\netcoreapp3.1\Сiphers.pdb
+C:\Users\Александр\source\repos\Сiphers\Сiphers\obj\Debug\netcoreapp3.1\Сiphers.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Сiphers\Сiphers\obj\Debug\netcoreapp3.1\Сiphers.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Сiphers\Сiphers\obj\Debug\netcoreapp3.1\Сiphers.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Сiphers\Сiphers\obj\Debug\netcoreapp3.1\Сiphers.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Сiphers\Сiphers\obj\Debug\netcoreapp3.1\Сiphers.dll
+C:\Users\Александр\source\repos\Сiphers\Сiphers\obj\Debug\netcoreapp3.1\Сiphers.pdb
+C:\Users\Александр\source\repos\Сiphers\Сiphers\obj\Debug\netcoreapp3.1\Сiphers.genruntimeconfig.cache
